@@ -1,0 +1,33 @@
+{
+    "connections": {
+        "new best connection": {
+            "bucket": "kek",
+            "folder_id": "wwwwww",
+            "url": "http://connection.co",
+            "name": "new best conneection"
+        },
+        "another try": {
+            "bucket": "name name name",
+            "folder_id": "some folder id",
+            "url": "http://google.com"
+        },
+        "front": {
+            "bucket": "test",
+            "folder_id": "connection",
+            "url": ""
+        },
+        "test_connection": {
+            "bucket": "1231",
+            "folder_id": "SfghgrTGDGTDdfartg767",
+            "url": "",
+            "sync_date": 1579704529.065068,
+            "aws_subscription": {
+                "topic_arn": "arn:aws:sns:eu-north-1:100000000087:new-uploaded"
+            }
+        }
+    },
+    "access": [
+        "pTuRVb4IoSMzP2sR6G4L_IuX4jT04en7uw",
+        "nRznFyyEk08LhhqxC7bPfl1oJLhC5N3QsQ"
+    ]
+}
